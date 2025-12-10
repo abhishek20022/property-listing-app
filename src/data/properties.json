@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Modern Apartment in Patna",
+      "price": 18000,
+      "location": "Patna",
+      "type": "Apartment",
+      "image": "https://saakaar.com/wp-content/uploads/2024/04/banner-724x1024.jpg",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "1150 sq.ft",
+      "description": "Beautiful modern apartment in central Patna with good connectivity to schools, malls, and hospitals."
+    },
+    {
+      "id": 2,
+      "title": "Luxury Villa in Gaya",
+      "price": 52000,
+      "location": "Gaya",
+      "type": "Villa",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=60",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": "2400 sq.ft",
+      "description": "Spacious villa with a private garden and open terrace, located in a calm and peaceful neighborhood of Gaya."
+    },
+    {
+      "id": 3,
+      "title": "Cozy Studio in Muzaffarpur",
+      "price": 12000,
+      "location": "Muzaffarpur",
+      "type": "Studio",
+      "image": "https://content.jdmagicbox.com/v2/comp/patna/q9/0612px612.x612.240801125301.g5q9/catalogue/anamya-interior-and-constructions-private-limited-sheikhpura-patna-architects-gz8k6b2kn6.jpg",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": "400 sq.ft",
+      "description": "Affordable studio ideal for students and small families, near Muzaffarpur railway station."
+    },
+    {
+      "id": 4,
+      "title": "Family House in Bhagalpur",
+      "price": 30000,
+      "location": "Bhagalpur",
+      "type": "House",
+      "image": "https://imagecdn.99acres.com/media1/29884/0/597680061M-1747725670523.webp",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": "1750 sq.ft",
+      "description": "Comfortable family house with a small garden, near Tilkamanjhi Chowk in Bhagalpur."
+    },
+    {
+      "id": 5,
+      "title": "Affordable Flat in Darbhanga",
+      "price": 16000,
+      "location": "Darbhanga",
+      "type": "Apartment",
+      "image": "https://housing-images.n7net.in/01c16c28/8faaf74e4474541db129cf2dc0bb55e3/v0/medium/2_bhk_independent_builder_floor-for-rent-laheriasarai-Darbhanga-others.jpg",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": "950 sq.ft",
+      "description": "Well-ventilated affordable flat with basic amenities and parking space in Darbhanga."
+    },
+    {
+      "id": 6,
+      "title": "Commercial Space in Patna",
+      "price": 80000,
+      "location": "Patna",
+      "type": "Commercial",
+      "image": "https://dyimg1.realestateindia.com/prop_images/3292258/1253866_1-350x350.jpg",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area": "3000 sq.ft",
+      "description": "Prime location commercial property near Boring Road, ideal for offices, shops, or showrooms."
+    }
+  ]
+  

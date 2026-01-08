@@ -67,7 +67,7 @@ Follow these steps to run the project locally:
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/property-listing-app.git
+git clone https://github.com/abhishek20022/property-listing-app.git
 
 
 2️⃣ Go into the project folder:
